@@ -1,1 +1,1 @@
-Brasch별로 관려
+Branch별로 관리
